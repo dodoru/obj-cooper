@@ -1,0 +1,22 @@
+{
+  "name": "obj-cooper",
+  "version": "0.0.1",
+  "description": "operate objects with OPModel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test_todo"
+  },
+  "keywords": [
+    "nodejs",
+    "operation",
+    "model"
+  ],
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/dodoru/obj-cooper/issues"
+  },
+  "homepage": "https://github.com/dodoru/obj-cooper#readme",
+  "devDependencies": {}
+}
